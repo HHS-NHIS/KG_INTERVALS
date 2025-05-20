@@ -1,4 +1,4 @@
-Package: KORN_GRUBAURD
+Package: KGINTERVAL
 Type: Package
 Title: Korn and Graubard Confidence Intervals for Survey Proportions
 Version: 0.1.0
