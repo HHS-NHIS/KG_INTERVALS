@@ -1,4 +1,4 @@
-Package: calculate_KG_CI
+#Package: calculate_KG_CI
 Title: Korn and Graubard Confidence Intervals for Survey Proportions
 Version: 0.1.0
 Authors@R: person("Your", "Name", email = "your.email@example.com", role = c("aut", "cre"))
