@@ -1,4 +1,4 @@
-Package: calculate_KG_CI
+Package: KORN_GRUBAURD
 Type: Package
 Title: Korn and Graubard Confidence Intervals for Survey Proportions
 Version: 0.1.0
