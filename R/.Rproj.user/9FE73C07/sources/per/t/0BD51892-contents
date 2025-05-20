@@ -1,0 +1,4 @@
+Package: KG_PACKAGE
+Type: Package
+Title: Korn and Graubard confidence intervals
+Version: 0.0.1.0
