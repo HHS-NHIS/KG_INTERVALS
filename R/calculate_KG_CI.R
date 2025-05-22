@@ -12,6 +12,8 @@
 #' @param df_adjust Whether to adjust for degrees of freedom (default: TRUE)
 #' @return Data frame with calculated CIs and flags
 #' @export
+#' @import dplyr
+#' @importFrom rlang .data
 calculate_KG_CI <- function(df,
                             prop_var = "proportion",
                             se_var = "se",
