@@ -4,17 +4,7 @@
 \alias{calculate_KG_CI}
 \title{Calculate Korn and Graubard Confidence Intervals}
 \usage{
-calculate_KG_CI(
-  df,
-  prop_var = "proportion",
-  se_var = "se",
-  n_var = "counts",
-  atlev1 = NULL,
-  atlev2 = NULL,
-  proportionTotal = 100,
-  roundingIncrement = 0.1,
-  df_adjust = TRUE
-)
+
 
 calculate_KG_CI(
   df,
@@ -53,5 +43,4 @@ Data frame with calculated CIs and flags
 \description{
 Calculate Korn and Graubard Confidence Intervals
 
-Calculate Korn and Graubard Confidence Intervals
 }
